@@ -25,10 +25,11 @@ You'll be working on replicating this website:
 ### Guidelines
 
 
+* Feel free to screenshot any part of the goal image if you're particular about things like the font or the boldness of the text. The focus is on **layout**, NOT on the look of the **content**.
 * All of the images have been given to you in assets. Use them!
+* We may have forgotten to screenshot one of the images on the bottom. Oops! Just duplicate a previous image. Again, **we care about layout here, NOT content**.
 * You don't have to EXACTLY match the layout. For example, does `justify-content: space-between` not quite work? Try `space-around` or `space-evenly` or `center` or _whatever is closest_ to the original layout. Don't sweat the small stuff, we're focusing on learning Flexbox.
 * You may _not_ use any *general* layout tools _besides_ flexbox. You can use `margin` and `padding`, sure, but _only_ if you're using them to fix a one-off spacing issue, _not_ as a tool for laying out the page. For example, you could apply padding on the right of the item of a row, or a right padding to the row itself, because the spacing isn't quite right otherwise, but not to every item in a row. General rules for elements are for Flexbox; one-time adjustments to that are perfectly fine to apply to one element.
-
 
 #### Some Resources
 
