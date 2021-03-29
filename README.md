@@ -34,3 +34,9 @@ You'll be working on replicating this website:
 #### Some Resources
 
 * CSS Tricks' excellent [run-through](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) of Flexbox. 
+
+### Stretch Goals
+
+Add CSS animations to all your elements so that they animate in when the page loads. To best explore what's possible here, make these animations as crazy as you can!
+
+Check out this Stack Overflow answer for information on how to do this using the CSS `@keyframes` rule: https://stackoverflow.com/a/12638711/4762063. 
