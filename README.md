@@ -16,11 +16,13 @@ But it'll be a lot easier with Flexbox.
 
 ## Your Assignment
 
-Start out by forking this repository.
+Start out by forking this repository, then creating an `index.html` and a `styles.css` file. Add the HTML starter code to `index.html` and remember to import `styles.css`. 
 
-You'll be working on replicating this website:
+Your task is to recreate the following layout:
 
 ![photo of instagram's profile on... instagram](./assets/goal.png)
+
+Good luck!
 
 ## Guidelines
 
